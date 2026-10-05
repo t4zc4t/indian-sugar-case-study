@@ -1,0 +1,136 @@
+annexure,state,season,payable,paid,arrear
+I,Uttar Pradesh,2018-19 & earlier,,,115
+I,Uttar Pradesh,2019-20,,,0
+I,Uttar Pradesh,2020-21,,,0
+I,Uttar Pradesh,2021-22,,,37
+I,Uttar Pradesh,2022-23,,,213
+I,Uttar Pradesh,2023-24,,,3440
+I,Maharashtra,2018-19 & earlier,,,72
+I,Maharashtra,2019-20,,,0
+I,Maharashtra,2020-21,,,56
+I,Maharashtra,2021-22,,,32
+I,Maharashtra,2022-23,,,25
+I,Maharashtra,2023-24,,,188
+I,Karnataka,2018-19 & earlier,,,4
+I,Karnataka,2019-20,,,0
+I,Karnataka,2020-21,,,0
+I,Karnataka,2021-22,,,0
+I,Karnataka,2022-23,,,0
+I,Karnataka,2023-24,,,65
+I,Gujarat,2018-19 & earlier,,,54
+I,Gujarat,2019-20,,,0
+I,Gujarat,2020-21,,,0
+I,Gujarat,2021-22,,,0
+I,Gujarat,2022-23,,,0
+I,Gujarat,2023-24,,,1090
+I,Tamil Nadu,2018-19 & earlier,,,51
+I,Tamil Nadu,2019-20,,,0
+I,Tamil Nadu,2020-21,,,0
+I,Tamil Nadu,2021-22,,,0
+I,Tamil Nadu,2022-23,,,0
+I,Tamil Nadu,2023-24,,,74
+I,Bihar,2018-19 & earlier,,,68
+I,Bihar,2019-20,,,39
+I,Bihar,2020-21,,,4
+I,Bihar,2021-22,,,0
+I,Bihar,2022-23,,,0
+I,Bihar,2023-24,,,66
+I,Haryana,2018-19 & earlier,,,0
+I,Haryana,2019-20,,,0
+I,Haryana,2020-21,,,0
+I,Haryana,2021-22,,,0
+I,Haryana,2022-23,,,0
+I,Haryana,2023-24,,,26
+I,Punjab,2018-19 & earlier,,,0
+I,Punjab,2019-20,,,0
+I,Punjab,2020-21,,,0
+I,Punjab,2021-22,,,28
+I,Punjab,2022-23,,,0
+I,Punjab,2023-24,,,117
+I,Madhya Pradesh,2018-19 & earlier,,,6
+I,Madhya Pradesh,2019-20,,,0
+I,Madhya Pradesh,2020-21,,,0
+I,Madhya Pradesh,2021-22,,,0
+I,Madhya Pradesh,2022-23,,,0
+I,Madhya Pradesh,2023-24,,,18
+I,Uttarakhand,2018-19 & earlier,,,131
+I,Uttarakhand,2019-20,,,0
+I,Uttarakhand,2020-21,,,0
+I,Uttarakhand,2021-22,,,0
+I,Uttarakhand,2022-23,,,0
+I,Uttarakhand,2023-24,,,17
+I,Andhra Pradesh,2018-19 & earlier,,,22
+I,Andhra Pradesh,2019-20,,,36
+I,Andhra Pradesh,2020-21,,,0
+I,Andhra Pradesh,2021-22,,,0
+I,Andhra Pradesh,2022-23,,,0
+I,Andhra Pradesh,2023-24,,,18
+I,Telangana,2018-19 & earlier,,,0
+I,Telangana,2019-20,,,0
+I,Telangana,2020-21,,,0
+I,Telangana,2021-22,,,0
+I,Telangana,2022-23,,,0
+I,Telangana,2023-24,,,4
+I,Chhattisgarh,2018-19 & earlier,,,0
+I,Chhattisgarh,2019-20,,,0
+I,Chhattisgarh,2020-21,,,0
+I,Chhattisgarh,2021-22,,,0
+I,Chhattisgarh,2022-23,,,0
+I,Chhattisgarh,2023-24,,,65
+I,Odisha,2018-19 & earlier,,,3
+I,Odisha,2019-20,,,0
+I,Odisha,2020-21,,,0
+I,Odisha,2021-22,,,0
+I,Odisha,2022-23,,,0
+I,Odisha,2023-24,,,0
+I,Total,2018-19 & earlier,,,526
+I,Total,2019-20,,,75
+I,Total,2020-21,,,60
+I,Total,2021-22,,,97
+I,Total,2022-23,,,238
+I,Total,2023-24,,,5188
+II,Uttar Pradesh,2021-22,35201,35164,37
+II,Uttar Pradesh,2022-23,38051,37838,213
+II,Uttar Pradesh,2023-24,35910,32470,3440
+II,Maharashtra,2021-22,43313,43281,32
+II,Maharashtra,2022-23,35532,35507,25
+II,Maharashtra,2023-24,36758,36570,188
+II,Karnataka,2021-22,20632,20632,0
+II,Karnataka,2022-23,19748,19748,0
+II,Karnataka,2023-24,19890,19825,65
+II,Gujarat,2021-22,3891,3891,0
+II,Gujarat,2022-23,3703,3703,0
+II,Gujarat,2023-24,3462,2372,1090
+II,Tamil Nadu,2021-22,3543,3543,0
+II,Tamil Nadu,2022-23,4562,4562,0
+II,Tamil Nadu,2023-24,3033,2959,74
+II,Bihar,2021-22,1578,1578,0
+II,Bihar,2022-23,2189,2189,0
+II,Bihar,2023-24,2371,2305,66
+II,Haryana,2021-22,2727,2727,0
+II,Haryana,2022-23,2862,2862,0
+II,Haryana,2023-24,2410,2384,26
+II,Punjab,2021-22,2308,2280,28
+II,Punjab,2022-23,2573,2573,0
+II,Punjab,2023-24,2474,2357,117
+II,Madhya Pradesh,2021-22,1839,1839,0
+II,Madhya Pradesh,2022-23,1771,1771,0
+II,Madhya Pradesh,2023-24,2140,2122,18
+II,Uttarakhand,2021-22,1531,1531,0
+II,Uttarakhand,2022-23,1697,1697,0
+II,Uttarakhand,2023-24,1133,1116,17
+II,Andhra Pradesh,2021-22,662,662,0
+II,Andhra Pradesh,2022-23,660,660,0
+II,Andhra Pradesh,2023-24,581,563,18
+II,Telangana,2021-22,662,662,0
+II,Telangana,2022-23,805,805,0
+II,Telangana,2023-24,583,579,4
+II,Chhattisgarh,2021-22,264,264,0
+II,Chhattisgarh,2022-23,266,266,0
+II,Chhattisgarh,2023-24,302,237,65
+II,Others,2021-22,120,120,0
+II,Others,2022-23,75,75,0
+II,Others,2023-24,89,89,0
+II,Total,2021-22,118271,118174,97
+II,Total,2022-23,114494,114256,238
+II,Total,2023-24,111136,105948,5188
